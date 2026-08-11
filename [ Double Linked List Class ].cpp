@@ -1,11 +1,11 @@
+// Do not give up
 #include <iostream>
 #include "clsDblLinkedList.h"
 
 using namespace std;
 
-int main()
-{
-    clsDblLinkedList <short> MyDblLinkedList;
+int main() {
+    clsDblLinkedList <int> MyDblLinkedList;
 
     MyDblLinkedList.InsertAtBeginning(10);
     MyDblLinkedList.InsertAtEnd(20);
@@ -21,7 +21,6 @@ int main()
         cout << "\nNode is not Found :-(\n\n";
 
     Node = MyDblLinkedList.GetNode(3);
-
     MyDblLinkedList.InsertAfter(Node, 40);
 
     MyDblLinkedList.PrintList();
@@ -43,8 +42,7 @@ int main()
     cout << "Is Empty : " << MyDblLinkedList.IsEmpty() << endl;
 
     MyDblLinkedList.Clear();
-    cout << "After Clear -> Is Empty : " << MyDblLinkedList.IsEmpty() << "\n";
+    cout << "After Clear (Is Empty) : " << MyDblLinkedList.IsEmpty() << "\n";
 
-    system("pause>0");
     return 0;
 }
