@@ -1,4 +1,4 @@
-# ⟷ Double-Linked-List-Class-OOP
+# ⟷ Double-Linked-List-Class-OOP.         
 
 A robust, reusable, and header-only **Doubly Linked List** library implemented in **C++** utilizing Object-Oriented Programming (OOP) principles and C++ Templates. 
 
