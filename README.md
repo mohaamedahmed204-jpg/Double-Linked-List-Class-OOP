@@ -84,13 +84,13 @@ int main() {
 
 
 
-Platform: ProgrammingAdvices
+* Platform: ProgrammingAdvices
 
-Website: https://programmingadvices.com
+* Website: https://programmingadvices.com
 
-Instructor: Dr. Mohammed Abu-Hadhoud
+* Instructor: Dr. Mohammed Abu-Hadhoud
 
-Course: 13 - Algorithms & Problem Solving – Level 5
+* Course: 13 - Algorithms & Problem Solving – Level 5
 
 ## 👤 Author
 
