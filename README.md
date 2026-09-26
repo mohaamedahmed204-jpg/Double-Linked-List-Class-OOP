@@ -95,4 +95,4 @@ int main() {
 ## 👤 Author
 
 Mohamed Ahmed Gwiada 
-GitHub: @mohaamedahmed204-jpg
+GitHub: mohaamedahmed204-jpg
