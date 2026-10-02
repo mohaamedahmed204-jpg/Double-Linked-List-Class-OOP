@@ -94,5 +94,4 @@ int main() {
 
 ## 👤 Author
 
-Mohamed Ahmed Gwiada 
-GitHub: mohaamedahmed204-jpg
+* Mohamed Ahmed Gwiada
