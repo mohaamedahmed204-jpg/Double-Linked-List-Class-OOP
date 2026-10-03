@@ -91,7 +91,3 @@ int main() {
 * Instructor: Dr. Mohammed Abu-Hadhoud
 
 * Course: 13 - Algorithms & Problem Solving – Level 5
-
-## 👤 Author
-
-* Mohamed Ahmed Gwiada
